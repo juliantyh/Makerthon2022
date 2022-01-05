@@ -1,7 +1,8 @@
 # Makerthon2022
 Code base for Makerthon 2022 Project
 
-Project Introduction:
+Project Introduction
+
 Our project is a plush interactive desktop companion that seeks to relieve NUS students’ stress and cultivate healthy coping mechanisms. 
 
 In order to come up with a solution to recognise and address potential distress in students, we conducted many interviews, where we learnt that students face a lot of stress studying and preparing for exams/internships. Due to high workloads, they tend to forget to take breaks and lead to even more stress from overworking. Students are also further isolated from communities due to Covid-19 and lack companionship.
@@ -10,6 +11,7 @@ The plush interactive desktop companion achieves these goals by reminding studen
 
 
 Project Description
+
 To achieve the goals stated in our introduction, our product is a plush desktop companion in the form of a cat, whose name is Pawl. It has the following features:
 
 
