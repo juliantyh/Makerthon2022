@@ -10,6 +10,7 @@ In order to come up with a solution to recognise and address potential distress 
 The plush interactive desktop companion achieves these goals by reminding students to take breaks while studying, provide relevant wellness advice according to the time of day and provide them with a sense of comfort at their working table.
 
 
+
 Project Description
 
 To achieve the goals stated in our introduction, our product is a plush desktop companion in the form of a cat, whose name is Pawl. It has the following features:
